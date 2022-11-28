@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_text_bodies",
+  "info": {
+    "displayName": "Body",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "body_text": {
+      "type": "text"
+    }
+  }
+}

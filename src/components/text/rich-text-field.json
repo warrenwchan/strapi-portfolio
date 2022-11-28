@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_text_rich_text_fields",
+  "info": {
+    "displayName": "Rich Text Field",
+    "icon": "paragraph"
+  },
+  "options": {},
+  "attributes": {
+    "rich_text_field": {
+      "type": "richtext"
+    }
+  }
+}
