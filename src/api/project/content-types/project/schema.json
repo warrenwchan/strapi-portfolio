@@ -42,6 +42,16 @@
     "slug": {
       "type": "uid",
       "targetField": "title"
+    },
+    "project_icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
