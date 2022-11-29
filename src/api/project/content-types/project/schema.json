@@ -35,7 +35,8 @@
         "images.images",
         "text.body",
         "text.rich-text-field",
-        "text.sub-title"
+        "text.sub-title",
+        "images.photo-grid"
       ]
     },
     "slug": {
