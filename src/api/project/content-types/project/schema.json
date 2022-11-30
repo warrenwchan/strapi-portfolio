@@ -37,7 +37,8 @@
         "text.rich-text-field",
         "text.sub-title",
         "images.photo-grid",
-        "button.button"
+        "button.button",
+        "tags.tags"
       ]
     },
     "slug": {
