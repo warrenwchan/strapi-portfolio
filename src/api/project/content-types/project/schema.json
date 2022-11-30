@@ -36,7 +36,8 @@
         "text.body",
         "text.rich-text-field",
         "text.sub-title",
-        "images.photo-grid"
+        "images.photo-grid",
+        "button.button"
       ]
     },
     "slug": {
@@ -44,14 +45,15 @@
       "targetField": "title"
     },
     "project_icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     }
   }
 }
