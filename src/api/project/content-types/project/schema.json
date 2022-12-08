@@ -55,6 +55,17 @@
         "videos",
         "audios"
       ]
+    },
+    "project_display": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
     }
   }
 }
